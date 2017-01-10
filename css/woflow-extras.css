@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+  .feature .large.training-gif {
+    max-width: 100%;
+  }
+}
+
+.mega {
+  margin-top: 50px;
+}
+
+.grid {
+  margin-top: 50px;
+}
